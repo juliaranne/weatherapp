@@ -1,0 +1,23 @@
+html,
+body{
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+	font-size: 25px;
+}
+table{
+	width:50%;
+}
+
+th{
+	text-align: left;
+}
+tr{
+	height:50px;
+}
+.red{
+	background-color: lightpink;
+}
+.blue{
+	background-color: #C6E2FF;
+}
