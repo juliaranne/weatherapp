@@ -67,11 +67,7 @@ app.init = function(){
 });
 
 // ,703448,2643743,3117735
-//$.ajax({
-    //url: weatherUrl + city + '&appid=' + apiKey,
-    // &APPID=e57c38a9af025a4539fb499e1446ef56
-    // ,703448,2643743
-    // 703448,2643743,3117735
-    // $.each(country, function(key, value){
-				// 	console.log( key + ": " + value );
-				// });
+
+
+
+
